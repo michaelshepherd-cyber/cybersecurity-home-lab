@@ -36,7 +36,10 @@ Internet
 
 **Verification**
 
-Ubuntu pulled the correct address from the firewall and could route traffic out to the internet, confirming the perimeter weas working: 02-ubuntu-network.png
+Ubuntu pulled the correct address from the firewall and could route traffic out to the internet, confirming the perimeter was working: <img width="601" height="752" alt="Pfsense network connections" src="https://github.com/user-attachments/assets/bc60fbd9-b462-40ea-87c5-e5d200598b02" />
+<img width="1431" height="841" alt="Pfsense Dashboard" src="https://github.com/user-attachments/assets/b8ffd212-498d-4a69-b01b-235aca9c4b36" />
+<img width="1299" height="740" alt="Ubuntu Terminal" src="https://github.com/user-attachments/assets/ee05ff4c-6c9e-4e49-93c7-b6ebe6e29b75" />
+
 
 **What I learned**
 

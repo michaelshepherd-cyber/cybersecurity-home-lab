@@ -34,6 +34,10 @@ Internet
 
 5. Accessed and secured the pfsense dashboard, changing the default admin password.
 
+**Verification**
+
+Ubuntu pulled the correct address from the firewall and could route traffic out to the internet, confirming the perimeter weas working: 02-ubuntu-network.png
+
 **What I learned**
 
 I learned the practical differences between Virtual Box NAT, Bridged, and Internal Network modes. I learned the Internal Network is used to build isolated segments -- the same concept as VLANs and separate switches in a physical network. 

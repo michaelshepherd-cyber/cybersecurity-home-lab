@@ -22,6 +22,8 @@ Internet
    |
  Ubuntu  192.168.1.x  (address assigned automatically by pfSense)
 
+<img width="601" height="752" alt="Pfsense network connections" src="https://github.com/user-attachments/assets/c325d22f-994f-4d95-8b14-3e5c846af974" />
+
 
  **What I did**
 1. I configured three network adapters on the pfsense VM -- one NAT adapter for the internet-facing WAN, and two VirtualBox Internal network adaptors named LAN and OPT1 to create private, isolated segments
